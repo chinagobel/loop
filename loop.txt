@@ -1,0 +1,10 @@
+
+
+
+
+
+hello,
+we are going to talk about loops
+
+
+for loop
