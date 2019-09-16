@@ -10,3 +10,5 @@ we are going to talk about loops
 for loop
 
 we can iterate item in array using for loop
+
+ex:-
