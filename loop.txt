@@ -11,6 +11,12 @@ for loop
 
 we can iterate item in array using for loop
 
+
 ex:-
 
 for(i in arr)
+
+
+
+end of lesson
+
